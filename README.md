@@ -8,13 +8,20 @@ most featured are designed for mobile/touch devices
 
 
  108 -  159:    Animation template
+ 
  166 -  219:    Game loop
+ 
  257 -  272:    Toast messages
+ 
  275 -  299:    Coin display
+ 
  302 -  317:    Info display
+ 
  320 -  488:    Stats
+ 
  494 -  691:    Shop
- 717 -  788:    Sprite class
+ 
+717 -  788:    Sprite class
  801 -  925:    Mage class
  932 -  976:    Enemy class
  988 - 1020:    Projectile class
@@ -102,5 +109,3 @@ most featured are designed for mobile/touch devices
 2419 - 2449:  [function]   load_level
 2621 - 2622:  [function]   print
 
-
-*/
